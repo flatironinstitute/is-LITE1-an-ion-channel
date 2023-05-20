@@ -9,7 +9,7 @@ TBD
 
 * `models/` - contains all of the Alphafold2-Multimer models described in this paper.
 * `networks/` - contains `.xml` files of the aromatic networks described in this paper.
-* Various other `.ipynb`s, scripts, and data files used in this paper are in this top level directory.
+* Various other `.ipynb` files, scripts, and data files used in this paper are in this top level directory.
 
 
 
