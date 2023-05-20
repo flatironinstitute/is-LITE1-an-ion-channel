@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="width" attr.type="double" />
+  <key id="d0" for="node" attr.name="size" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="TYR19">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR22">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR37">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR38">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR56">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR212">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR282">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR53">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR285">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR66">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR72">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR164">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR335">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR303">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR304">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR251">
+      <data key="d0">10</data>
+    </node>
+    <node id="TRP227">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR403">
+      <data key="d0">10</data>
+    </node>
+    <node id="TYR413">
+      <data key="d0">10</data>
+    </node>
+    <edge source="TYR19" target="TYR22">
+      <data key="d1">0.25664642453193665</data>
+    </edge>
+    <edge source="TYR19" target="TYR37">
+      <data key="d1">0.7012466192245483</data>
+    </edge>
+    <edge source="TYR19" target="TYR38">
+      <data key="d1">0.6171479821205139</data>
+    </edge>
+    <edge source="TYR19" target="TYR56">
+      <data key="d1">1.3070846796035767</data>
+    </edge>
+    <edge source="TYR19" target="TYR212">
+      <data key="d1">0.798304557800293</data>
+    </edge>
+    <edge source="TYR19" target="TYR282">
+      <data key="d1">1.2493948936462402</data>
+    </edge>
+    <edge source="TYR22" target="TYR37">
+      <data key="d1">0.8226650357246399</data>
+    </edge>
+    <edge source="TYR22" target="TYR38">
+      <data key="d1">0.7215554714202881</data>
+    </edge>
+    <edge source="TYR22" target="TYR212">
+      <data key="d1">0.49249204993247986</data>
+    </edge>
+    <edge source="TYR22" target="TYR282">
+      <data key="d1">0.8781121373176575</data>
+    </edge>
+    <edge source="TYR37" target="TYR38">
+      <data key="d1">0.13285356760025024</data>
+    </edge>
+    <edge source="TYR37" target="TYR53">
+      <data key="d1">0.6546327471733093</data>
+    </edge>
+    <edge source="TYR37" target="TYR56">
+      <data key="d1">0.34923258423805237</data>
+    </edge>
+    <edge source="TYR37" target="TYR282">
+      <data key="d1">0.5545486807823181</data>
+    </edge>
+    <edge source="TYR37" target="TYR285">
+      <data key="d1">1.3821958303451538</data>
+    </edge>
+    <edge source="TYR38" target="TYR53">
+      <data key="d1">0.48983103036880493</data>
+    </edge>
+    <edge source="TYR38" target="TYR56">
+      <data key="d1">0.7534934878349304</data>
+    </edge>
+    <edge source="TYR38" target="TYR282">
+      <data key="d1">1.1006271839141846</data>
+    </edge>
+    <edge source="TYR56" target="TYR53">
+      <data key="d1">0.22825433313846588</data>
+    </edge>
+    <edge source="TYR56" target="TYR66">
+      <data key="d1">1.102752685546875</data>
+    </edge>
+    <edge source="TYR56" target="TYR282">
+      <data key="d1">0.9043799638748169</data>
+    </edge>
+    <edge source="TYR212" target="TYR251">
+      <data key="d1">1.1999350786209106</data>
+    </edge>
+    <edge source="TYR212" target="TYR282">
+      <data key="d1">1.2812705039978027</data>
+    </edge>
+    <edge source="TYR282" target="TYR66">
+      <data key="d1">1.3590255975723267</data>
+    </edge>
+    <edge source="TYR282" target="TYR285">
+      <data key="d1">0.4173080623149872</data>
+    </edge>
+    <edge source="TYR285" target="TYR335">
+      <data key="d1">1.2062387466430664</data>
+    </edge>
+    <edge source="TYR285" target="TYR403">
+      <data key="d1">0.6009777784347534</data>
+    </edge>
+    <edge source="TYR66" target="TYR72">
+      <data key="d1">0.6045060157775879</data>
+    </edge>
+    <edge source="TYR66" target="TYR164">
+      <data key="d1">1.2902402877807617</data>
+    </edge>
+    <edge source="TYR66" target="TYR335">
+      <data key="d1">1.0902224779129028</data>
+    </edge>
+    <edge source="TYR164" target="TYR303">
+      <data key="d1">1.3325417041778564</data>
+    </edge>
+    <edge source="TYR164" target="TYR304">
+      <data key="d1">0.9066652059555054</data>
+    </edge>
+    <edge source="TYR164" target="TYR335">
+      <data key="d1">0.544793963432312</data>
+    </edge>
+    <edge source="TYR335" target="TYR303">
+      <data key="d1">1.0962858200073242</data>
+    </edge>
+    <edge source="TYR335" target="TYR304">
+      <data key="d1">0.9943767786026001</data>
+    </edge>
+    <edge source="TYR335" target="TYR403">
+      <data key="d1">0.7426020503044128</data>
+    </edge>
+    <edge source="TYR335" target="TYR413">
+      <data key="d1">1.2742117643356323</data>
+    </edge>
+    <edge source="TYR303" target="TYR304">
+      <data key="d1">0.1334424912929535</data>
+    </edge>
+    <edge source="TYR303" target="TYR413">
+      <data key="d1">1.3008769750595093</data>
+    </edge>
+    <edge source="TYR304" target="TYR413">
+      <data key="d1">0.9540919065475464</data>
+    </edge>
+    <edge source="TYR251" target="TRP227">
+      <data key="d1">1.2743932008743286</data>
+    </edge>
+    <edge source="TYR403" target="TYR413">
+      <data key="d1">0.9664982557296753</data>
+    </edge>
+    <edge source="TYR413" target="TYR413">
+      <data key="d1">0.6383684873580933</data>
+    </edge>
+  </graph>
+</graphml>
