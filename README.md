@@ -1,5 +1,5 @@
 # is-LITE1-an-ion-channel
-Models and scripts for the paper 'Structure-function analysis suggests thats the photoreceptor LITE-1 a light-activated ion channel'.
+Models and scripts for the paper 'Structure-function analysis suggest thats the photoreceptor LITE-1 a light-activated ion channel'.
 
 ### License: CC-BY-NC-SA
 * Creative Commons Attribution-NonCommercial-ShareAlike
