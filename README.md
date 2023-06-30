@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/643215611.svg)](https://zenodo.org/badge/latestdoi/643215611)
+
+
 # is-LITE1-an-ion-channel
 Models and scripts for the paper 'Structure-function analysis suggests that the photoreceptor LITE-1 a light-activated ion channel'.
 
