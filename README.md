@@ -1,9 +1,8 @@
 # is-LITE1-an-ion-channel
 Models and scripts for the paper 'Is the photoreceptor LITE-1 a light-activated ion channel?'.
 
-### License
-
-TBD
+### License: CC-BY-NC-SA
+* Creative Commons Attribution-NonCommercial-ShareAlike
 
 ### Manifest
 
